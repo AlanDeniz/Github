@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	color: antiquewhite;
+	font-family: "Helvetica, sans-serif";
+	
+}
+body {background-color: #D800FF;
+      background-image: url(cat.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+
+h1 {
+	font-family: georgia, "times new roman", serif;
+	font-style: italic;
+	font-weight: normal;
+}
+
+
+a {
+	color: chocolate;
+}
+a:link{
+	color:blue;
+}
+a:visited {
+	color: purple;
+}
+a:hover{
+	color: yellow;
+}
+a:active{
+	color: white;
+}
